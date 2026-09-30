@@ -1,0 +1,22 @@
+{
+  "row_count": 1000,
+  "column_count": 6,
+  "duplicate_record_ids": 12,
+  "missing_values": {
+    "customer_id": 8,
+    "age": 22,
+    "annual_income": 15
+  },
+  "negative_income": 10,
+  "invalid_age": 0,
+  "duplicate_customer_ids": 800,
+  "checks": {
+    "record_ids_unique": false,
+    "no_missing_customer_ids": false,
+    "no_negative_income": false,
+    "valid_age_range": true
+  },
+  "passed_checks": 1,
+  "total_checks": 4,
+  "status": "REVIEW"
+}
